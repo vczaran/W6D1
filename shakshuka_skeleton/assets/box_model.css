@@ -97,5 +97,19 @@ header {
   justify-content: flex-start;
 }
 
+.ingredients-list li {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+ol li {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+input {
+  display: grid;
+  grid-template-rows:16.6% 16.6% 16.6% 16.6% 16.6% 16.6% ;
+}
 
 
